@@ -2,7 +2,7 @@
 #### Welcome to Codedsoup Module.
 ##### What is Codedsoup Module?
 Codedsoup Module is a program that supports your project using information.
-This is coded with python. You are able to use this in your project.
+You are able to use this in your project.
 
 *NOTE: This is instructions for those who are coding with Python.
 If your coding with Java or C, look down below, Thank you, you may proceed.*
