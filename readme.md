@@ -15,10 +15,12 @@ If your coding with C, read these instructions:
 - Create a directory in your project called `com/codedsoup/module`,
 If your on github, have it `src/com/codedsoup/module`.
 - Once the directory is made, make a file called **Module.c**.
-Inside that file, copy the code from [here](http://codedsoup.com/module/c.txt).
+Inside that file, copy the code from [here](http://codedsoup.com/module/c.txt). 
+Once copied, you can edit **Module.c**
 
 If your coding with Java, read these instructions:
 - Create a directory in your project called `com/codedsoup/module`,
 If your on github, have it `src/com/codedsoup/module`.
 - Once the directory is made, make a file called **Module.java**.
-Inside that file, copy the code from [here](http://codedsoup.com/module/java.txt).
+Inside that file, copy the code from [here](http://codedsoup.com/module/java.txt). 
+Once copied, you can edit **Module.java**
