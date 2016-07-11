@@ -1,11 +1,12 @@
 <h2 align=center>Codedsoup Module</h2>
 #### Welcome to Codedsoup Module.
 ##### What is Codedsoup Module?
-*NOTE: This is instructions for those who are coding with Python.
-If your coding with Java or C, look down below, Thank you, you may proceed.*
 Codedsoup Module is a program that supports your project using information.
 This is coded with python. You are able to use this in your project.
-To use it, you must create a directory called `src/com/codedsoup/module/`.
+
+*NOTE: This is instructions for those who are coding with Python.
+If your coding with Java or C, look down below, Thank you, you may proceed.*
+If your coding with Python, you must create a directory called `src/com/codedsoup/module/`.
 Inside that directory, create a file called **Module.py**. Copy the code from [here](https://raw.githubusercontent.com/codedsoup/module/master/src/com/codedsoup/module/Module.py).
 After copying it, you can edit **Module.py**.
 
