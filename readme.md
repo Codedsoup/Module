@@ -13,14 +13,14 @@ After pasting the copied code, you can edit **Module.py**.
 If your coding with Java or C, don't create a file called **Module.py**.
 If your coding with C, read these instructions:
 - Create a directory in your project called `com/codedsoup/module`,
-If your on github, have it `src/com/codedsoup/module`.
+If your not on an IDE, have it `src/com/codedsoup/module`.
 - Once the directory is made, make a file called **Module.c**.
 Inside that file, copy the code from [here](http://codedsoup.com/module/c.txt). 
 Once copied, you can edit **Module.c**
 
 If your coding with Java, read these instructions:
 - Create a directory in your project called `com/codedsoup/module`,
-If your on github, have it `src/com/codedsoup/module`.
+If your not on an IDE, have it `src/com/codedsoup/module`.
 - Once the directory is made, make a file called **Module.java**.
 Inside that file, copy the code from [here](http://codedsoup.com/module/java.txt). 
 Once copied, you can edit **Module.java**
