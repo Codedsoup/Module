@@ -8,7 +8,7 @@ You are able to use this in your project.
 If your coding with Java or C, look down below, Thank you, you may proceed.*
 If your coding with Python, you must create a directory called `src/com/codedsoup/module/`.
 Inside that directory, create a file called **Module.py**. Copy the code from [here](https://raw.githubusercontent.com/codedsoup/module/master/src/com/codedsoup/module/Module.py).
-After copying it, you can edit **Module.py**.
+After pasting the copied code, you can edit **Module.py**.
 
 If your coding with Java or C, don't create a file called **Module.py**.
 If your coding with C, read these instructions:
